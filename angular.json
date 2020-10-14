@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "copySnnipetAngular"
+    }
+  },
+  "defaultProject": "copySnnipetAngular",
+  "cli": {
+    "analytics": "49bee43e-1ade-4cde-bd30-a04a31f09f7d"
+  }
 }
